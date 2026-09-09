@@ -1,0 +1,262 @@
+name,description,category,auth,https,cors,link
+CORE,Access the world's Open Access research papers,Science & Math,apiKey,True,,https://core.ac.uk/services#api
+REST Countries,Get information about countries via a RESTful API,Geocoding,No,True,True,https://restcountries.com
+Creative Commons Catalog,Search among openly licensed and public domain works,Other,OAuth,True,True,https://api.creativecommons.engineering/
+RevCarData,"86,000+ global vehicle specifications and EV metrics",Other,apiKey,True,True,https://revcardata.com
+Podio,File sharing and productivity,Documents & Productivity,OAuth,True,,https://developers.podio.com
+Simkl,"Movie, TV and Anime data",Video,apiKey,True,,https://simkl.docs.apiary.io
+CountAPI,Free and simple counting service. You can use it to track page hits and specific events,Development,No,True,True,https://countapi.xyz
+French Address Search,Address search via the French Government,Open Data,No,True,,https://geo.api.gouv.fr/adresse
+AI For Thai,Free Various Thai AI API,Machine Learning,apiKey,True,True,https://aiforthai.in.th/index.php
+Audiomack,Api of the streaming music hub Audiomack,Music,OAuth,True,,https://www.audiomack.com/data-api/docs
+Tinify.dev,"Image compression, resize and crop API with usage metadata",Photography,apiKey,True,False,https://tinify.dev/developers
+PandaDoc,DocGen and eSignatures API,Documents & Productivity,apiKey,True,False,https://developers.pandadoc.com
+"Transport for Paris, France",RATP Open Data API,Transportation,No,False,,http://data.ratp.fr/api/v1/console/datasets/1.0/search/
+Aylien Text Analysis,A collection of information retrieval and natural language APIs,Text Analysis,apiKey,True,,https://docs.aylien.com/textapi/#getting-started
+British National Bibliography,Books,Books,No,False,,http://bnb.data.bl.uk/
+Bacon Ipsum,A Meatier Lorem Ipsum Generator,Test Data,No,True,,https://baconipsum.com/json-api/
+NaMoMemes,Memes on Narendra Modi,Entertainment,No,True,,https://github.com/theIYD/NaMoMemes
+Countly,Countly web analytics,Other,No,False,,https://api.count.ly/reference
+Bandsintown,Music Events,Music,No,True,,https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0
+Apache Superset,API to manage your BI dashboards and data sources on Superset,Business,apiKey,True,True,https://superset.apache.org/docs/api
+FRED,Economic data from the Federal Reserve Bank of St. Louis,Finance,apiKey,True,True,https://fred.stlouisfed.org/docs/api/fred/
+MMO Games,"MMO Games Database, News and Giveaways",Games & Comics,No,True,False,https://www.mmobomb.com/api
+EXUDE-API,"Used for the primary ways for filtering the stopping, stemming words from the text data",Machine Learning,No,True,True,http://uttesh.com/exude-api/
+SoundCloud,With SoundCloud API you can build applications that will give more power to control your content,Music,OAuth,True,,https://developers.soundcloud.com/docs/api/guide
+CarVector,"Vehicle specs, images, recalls, and DTC codes across 1925-2029",Other,apiKey,True,True,https://carvector.io/docs
+OpenSanctions,"Data on international sanctions, crime and politically exposed persons",Open Data,No,True,True,https://www.opensanctions.org/docs/api/
+Anycrap,"35,000+ absurdist AI-generated product concepts with names, descriptions, and images",Entertainment,apiKey,True,True,https://anycrap.shop/developers
+"Open Government, Czech Republic",Czech Republic Government Open Data,Government,No,True,,https://data.gov.cz/english/
+Scanii,Simple REST API that can scan submitted documents/files for the presence of threats,Anti-Malware,apiKey,True,True,https://docs.scanii.com/
+FoodData Central,National Nutrient Database for Standard Reference,Health,apiKey,True,,https://fdc.nal.usda.gov/
+Public Holidays,"Data on national, regional, and religious holidays via API",Calendar,apiKey,True,True,https://www.abstractapi.com/holidays-api
+Zennet,"x402 pay-per-use APIs: Polymarket signals, CEX/DEX spreads, contract risk scores, gas oracle",Cryptocurrency,No,True,True,https://zennet.cloud
+BitPanda,Cryptocurrency Information,Cryptocurrency,apiKey,True,,https://developers.bitpanda.com
+"Transport for Los Angeles, US",Data about positions of Metro vehicles in real time and travel their routes,Transportation,No,True,,https://developer.metro.net/api/
+The Guardian,"Access all the content the Guardian creates, categorised by tags and section",News,apiKey,True,,http://open-platform.theguardian.com/
+BinaryEdge,Provide access to BinaryEdge 40fy scanning platform,Security,apiKey,True,True,https://docs.binaryedge.io/api-v2.html
+TickerLayer,"Real-time and historical market data for stocks, forex, crypto and more",Finance,apiKey,True,,https://tickerlayer.com
+Open Data NHS Scotland,Medical reference data and statistics by Public Health Scotland,Health,No,True,,https://www.opendata.nhs.scot
+Geocode.xyz,"Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",Geocoding,No,True,,https://geocode.xyz/api
+iDigBio,Access millions of museum specimens from organizations around the world,Science & Math,No,True,,https://github.com/idigbio/idigbio-search-api/wiki
+7Timer!,"Weather, especially for Astroweather",Weather,No,False,,http://www.7timer.info/doc.php?lang=en
+Dicebear Avatars,Generate random pixel-art avatars,Test Data,No,True,False,https://avatars.dicebear.com/
+Words,"Definitions and synonyms for more than 150,000 words",Other,apiKey,True,,https://www.wordsapi.com/docs/
+Telegram MTProto,Read and write Telegram data,Social,OAuth,True,,https://core.telegram.org/api#getting-started
+"Open Government, Slovakia",Slovakia Government Open Data,Government,No,True,,https://data.gov.sk/en/
+The Muse,Job board and company profiles,Jobs,apiKey,True,,https://www.themuse.com/developers/api/v2
+KuCoin,Cryptocurrency Trading Platform,Cryptocurrency,apiKey,True,,https://docs.kucoin.com/
+BigDataCloud,Provides fast and accurate IP geolocation APIs along with security checks and confidence area,Geocoding,apiKey,True,,https://www.bigdatacloud.com/ip-geolocation-apis
+"Open Government, Greece",Greece Government Open Data,Government,OAuth,True,,https://data.gov.gr/
+Legal Sandbox Georgia,Find verified legal specialists in Georgia from natural-language queries,Business,No,True,True,https://legal.ge/api/openapi.json
+Zippopotam.us,"Get information about place such as country, city, state, etc",Geocoding,No,False,,http://www.zippopotam.us
+Telize,Telize offers location information from any IP address,Geocoding,apiKey,True,True,https://rapidapi.com/fcambus/api/telize/
+CurrencyBeacon,Real-time and historical currency exchange rates with free tier,Currency Exchange,apiKey,True,True,https://currencybeacon.com/
+InfraNode,"Unified German city open data: weather, air quality, EV chargers, transit, demographics",Open Data,apiKey,True,,https://infranode.dev
+Contentful Images,Used to retrieve and apply transformations to images,Development,apiKey,True,True,https://www.contentful.com/developers/docs/references/images-api/
+Mexico,Mexico RESTful zip codes API,Geocoding,No,True,,https://github.com/IcaliaLabs/sepomex
+Arbeitsamt,"API for the ""Arbeitsamt"", which is a german Job board aggregator",Jobs,OAuth,True,,https://jobsuche.api.bund.dev/
+Qrcode Monkey,Integrate custom and unique looking QR codes into your system or workflow,Development,No,True,,https://www.qrcode-monkey.com/qr-code-api-with-logo/
+Pokéapi,Pokémon Information,Games & Comics,No,True,,https://pokeapi.co
+openFDA,"Public FDA data about drugs, devices and foods",Health,apiKey,True,,https://open.fda.gov
+Bidledger,"Every open public tender in the European Union, rebuilt daily from the official TED data",Government,No,True,True,https://jaydemks.github.io/bidledger/api.html
+Football-Data,"Football data with matches info, players, teams, and competitions",Sports & Fitness,X-Mashape-Key,True,,https://www.football-data.org
+Exchangerate.dev,"Live & historical FX, 168 pairs back to 1999, Frankfurter-compatible, free 10k/mo",Currency Exchange,No,True,,https://exchangerate.dev/docs
+Lumify,"Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports",Sports & Fitness,apiKey,True,False,https://lumify.ai/docs
+Micro Weather,Real time weather forecasts and historic data,Weather,apiKey,True,,https://m3o.com/weather/api
+Perspective,"NLP API to return probability that if text is toxic, obscene, insulting or threatening",Machine Learning,apiKey,True,,https://perspectiveapi.com
+Get Started with Web3,"Bilingual Web3 lessons, glossary search and role-based learning paths",Blockchain,No,True,True,https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md
+Rendex,"Render HTML, Markdown, or URLs to PNG/JPEG/WebP/PDF, with extraction and templating",Documents & Productivity,apiKey,True,,https://rendex.dev
+"Open Government, Mexico",Mexico Government Open Data,Government,No,True,,https://datos.gob.mx/
+IFTTT,IFTTT Connect API,Development,No,True,,https://platform.ifttt.com/docs/connect_api
+Readme typing SVG,Customizable typing and deleting text SVG,Photography,No,True,,https://github.com/DenverCoder1/readme-typing-svg
+Lingua Robot,"Word definitions, pronunciations, synonyms, antonyms and others",Other,apiKey,True,True,https://www.linguarobot.io
+Wallhaven,Wallpapers,Photography,apiKey,True,,https://wallhaven.cc/help/api
+Cloudmersive,"Image captioning, face recognition, NSFW classification",Machine Learning,apiKey,True,True,https://www.cloudmersive.com/image-recognition-and-processing-api
+AcreLens,"Land suitability scoring API for any US property: off-grid, rural, recreational, investment",Open Data,apiKey,True,,https://www.acrelens.com
+Codex,Online Compiler for Various Languages,Development,No,True,,https://github.com/Jaagrav/CodeX
+Wizard World,Get information from the Harry Potter universe,Books,No,True,True,https://wizard-world-api.herokuapp.com/swagger/index.html
+BIC-Boxtech,Container technical detail for the global container fleet,Transportation,OAuth,True,,https://docs.bic-boxtech.org/
+Penguin Publishing,"Books, book covers and related data",Books,No,True,True,http://www.penguinrandomhouse.biz/webservices/rest/
+Product Hunt,The best new products in tech,Social,OAuth,True,,https://api.producthunt.com/v2/docs
+FingerprintJS Pro,Fraud detection API offering highly accurate browser fingerprinting,Security,apiKey,True,True,https://dev.fingerprintjs.com/docs
+Trace Moe,A useful tool to get the exact scene of an anime from a screenshot,Anime,No,True,True,https://soruly.github.io/trace.moe-api/#/
+Chronicling America,Provides access to millions of pages of historic US newspapers from the Library of Congress,News,No,False,,http://chroniclingamerica.loc.gov/about/api/
+CruiseFeed,"Normalized cruise line inventory: ships, sailings, itineraries, ports and lead-in fares",Transportation,apiKey,True,,https://cruisefeed.io
+Loripsum,"The ""lorem ipsum"" generator that doesn't suck",Test Data,No,False,,http://loripsum.net/
+KrakenKeys,"Steam game key price comparison across 20+ stores, deals, and price history",Games & Comics,apiKey,True,False,https://krakenkeys.com/api-docs
+Cat Facts,Random cat facts,Animals,No,True,True,https://catfact.ninja/
+Hyperserve,"Video backend API: upload any format, transcode to MP4, deliver via CDN",Video,apiKey,True,True,https://hyperserve.io/
+Yahoo Finance,"Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange",Finance,apiKey,True,True,https://www.yahoofinanceapi.com/
+Coinbase Pro,Cryptocurrency Trading Platform,Cryptocurrency,apiKey,True,,https://docs.pro.coinbase.com/#api
+adresse.data.gouv.fr,"Address database of France, geocoding and reverse",Geocoding,No,True,,https://adresse.data.gouv.fr
+Watchdata,Provide simple and reliable API access to Ethereum blockchain,Blockchain,apiKey,True,,https://docs.watchdata.io
+mod.io,Cross Platform Mod API,Games & Comics,apiKey,True,,https://docs.mod.io
+Chuck Norris Database,Jokes,Games & Comics,No,False,,http://www.icndb.com/api/
+Trakt,Movie and TV Data,Video,apiKey,True,True,https://trakt.docs.apiary.io/
+Slack,Team Instant Messaging,Social,OAuth,True,,https://api.slack.com/
+KONTESTS,For upcoming and ongoing competitive coding contests,Other,No,True,,https://kontests.net/api
+"Open Government, Peru",Peru Government Open Data,Government,No,True,,https://www.datosabiertos.gob.pe/
+Quotes on Design,Inspirational Quotes,Personality,No,True,,https://quotesondesign.com/api/
+0x,API for querying token and pool stats across various liquidity pools,Cryptocurrency,No,True,True,https://0x.org/api
+HaveIBeenPwned,Passwords which have previously been exposed in data breaches,Security,apiKey,True,,https://haveibeenpwned.com/API/v3
+"Transport for London, England",TfL API,Transportation,apiKey,True,,https://api.tfl.gov.uk
+"Open Government, Slovenia",Slovenia Government Open Data,Government,No,True,False,https://podatki.gov.si/
+Utilorax,"203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion",Development,apiKey,True,True,https://utilorax.com/api
+"Transport for Chicago, US",Chicago Transit Authority (CTA),Transportation,apiKey,False,,http://www.transitchicago.com/developers/
+Open Food Facts,Food Products Database,Food & Drink,No,True,,https://world.openfoodfacts.org/data
+MY IP,Get IP address information,Development,No,True,,https://www.myip.com/api-docs/
+RedirHub,"URL redirect management with custom domains, HTTPS, analytics, and REST API",URL Shorteners,apiKey,True,True,https://redirhub.com
+Football Standings,"Display football standings e.g epl, la liga, serie a etc. The data is based on espn site",Sports & Fitness,No,True,True,https://github.com/azharimm/football-standings-api
+Visual Crossing,Global historical and weather forecast data,Weather,apiKey,True,True,https://www.visualcrossing.com/weather-api
+Cloudmersive Validate,"Validate email addresses, phone numbers, VAT numbers and domain names",Email,apiKey,True,True,https://cloudmersive.com/validate-api
+Transport for The Netherlands,"OVAPI, country-wide public transport",Transportation,No,True,,https://github.com/skywave/KV78Turbo-OVAPI/wiki
+QR code,Create an easy to read QR code and URL shortener,Development,No,True,True,https://www.qrtag.net/api/
+SWAPI GraphQL,Star Wars GraphQL API,Video,No,True,,https://graphql.org/swapi-graphql
+Tokopedia,Tokopedia's Official API for integration of various services from Tokopedia,Shopping,OAuth,True,,https://developer.tokopedia.com/openapi/guide/#/
+QR code,Generate and decode / read QR code graphics,Development,No,True,,http://goqr.me/api/
+Postmon,"An API to query Brazilian ZIP codes and orders easily, quickly and free",Other,No,False,,http://postmon.com.br
+IPify,A simple IP Address API,Development,No,True,,https://www.ipify.org/
+Portfolio Optimizer,Portfolio analysis and optimization,Finance,No,True,True,https://portfoliooptimizer.io/
+Quotable Quotes,"Quotable is a free, open source quotations API",Personality,No,True,,https://github.com/lukePeavey/quotable
+Watson Natural Language Understanding,Natural language processing for advanced text analysis,Text Analysis,OAuth,True,,https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding
+FastDOL,"Federal enforcement records for US employers: OSHA, WHD, MSHA, EPA, NLRB, and more",Government,apiKey,True,True,https://www.fastdol.com/docs
+Mozilla tls scanner,Mozilla observatory tls scanner,Security,No,True,,https://github.com/mozilla/tls-observatory#api-endpoints
+PolyDoc,"HTML/URL to PDF and screenshots, plus Factur-X/ZUGFeRD e-invoices; free tier",Documents & Productivity,apiKey,True,,https://polydoc.tech
+Data USA,US Public Data,Government,No,True,,https://datausa.io/about/api/
+Charity Search,Non-profit charity data,Business,apiKey,False,,http://charityapi.orghunter.com/
+"Open Government, Lithuania",Lithuania Government Open Data,Government,No,True,,https://data.gov.lt/public/api/1
+Frankfurter,"Exchange rates, currency conversion and time series",Currency Exchange,No,True,True,https://www.frankfurter.app/docs
+Numbers,Facts about numbers,Science & Math,No,False,False,http://numbersapi.com
+Catalogopolis,Doctor Who API,Video,No,True,,https://api.catalogopolis.xyz/docs/
+Google Analytics,"Collect, configure and analyze your data to reach the right audience",Business,OAuth,True,,https://developers.google.com/analytics/
+Microsoft Graph,"Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility",Social,OAuth,True,,https://docs.microsoft.com/en-us/graph/api/overview
+GeoDataSource,Geocoding of city name by using latitude and longitude coordinates,Geocoding,apiKey,True,,https://www.geodatasource.com/web-service
+Suprsonic,"Unified agent API: search, scrape, enrich, image gen, TTS, STT, messaging. One key, 20+ capabilities",Development,apiKey,True,True,https://suprsonic.ai
+RecipeAPI,"Recipes, ingredients, nutrition data and cooking instructions",Food & Drink,apiKey,True,True,https://recipeapi.io
+PunkAPI,Brewdog Beer Recipes,Food & Drink,No,True,,https://punkapi.com/
+Google Calendar,"Display, create and modify Google calendar events",Calendar,OAuth,True,,https://developers.google.com/google-apps/calendar/
+"Open Government, Saudi Arabia",Saudi Arabia Government Open Data,Government,No,True,,https://data.gov.sa
+xkcd,Retrieve xkcd comics as JSON,Games & Comics,No,True,False,https://xkcd.com/json.html
+Musixmatch,Music,Music,apiKey,True,,https://developer.musixmatch.com/
+AlienVault Open Threat Exchange (OTX),IP/domain/URL reputation,Anti-Malware,apiKey,True,,https://otx.alienvault.com/api
+Pexafy,Semantic image search across 9+ free stock photo sources with a unified JSON schema,Photography,apiKey,True,True,https://docs.pexafy.com
+Shrtlnk,Simple and efficient short link creation,URL Shorteners,apiKey,True,True,https://shrtlnk.dev/developer
+SustainMetrics,"18,000+ GHG emission factors from DEFRA, EPA, ADEME, Ember",Environment,apiKey,True,True,https://www.sustainmetrics.net/api
+Astroworld,"Free Minecraft data: mobs, biomes, items, enchantments, structures, commands, versions, achievements, trades",Games & Comics,No,True,True,https://api.astroworldmc.com
+What3Words,Three words as rememberable and unique coordinates worldwide,Geocoding,apiKey,True,,https://what3words.com
+npm Registry,Query information about your favorite Node.js libraries programatically,Development,No,True,,https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
+HelloSalut,Get hello translation following user language,Geocoding,No,True,,https://fourtonfish.com/project/hellosalut-api/
+Transport for Czech Republic,Czech transport API,Transportation,No,True,,https://www.chaps.cz/eng/products/idos-internet
+JSONPlaceholder,Fake data for testing and prototyping,Test Data,No,False,,http://jsonplaceholder.typicode.com/
+World Bank,World Data,Science & Math,No,True,False,https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+JIRA,JIRA is a proprietary issue tracking product that allows bug tracking and agile project management,Documents & Productivity,OAuth,True,,https://developer.atlassian.com/server/jira/platform/rest-apis/
+Tradier,"US equity/option market data (delayed, intraday, historical)",Finance,OAuth,True,True,https://developer.tradier.com
+Ganjoor,"Classic Persian poetry works including access to related manuscripts, recitations and music tracks",Books,OAuth,True,True,https://api.ganjoor.net
+Kiprio Email Validate,"Free email validation: MX check, disposable detection, syntax",Email,apiKey,True,True,https://kiprio.com/v1/email-validate
+UPS,Shipment and Address information,Other,apiKey,True,,https://www.ups.com/upsdeveloperkit
+USAspending.gov,US federal spending data,Government,No,True,,https://api.usaspending.gov/
+UK Companies House,UK Companies House Data from the UK government,Government,OAuth,True,,https://developer.company-information.service.gov.uk/
+Kraken,Cryptocurrencies Exchange,Cryptocurrency,apiKey,True,,https://docs.kraken.com/rest/
+Phone Validation,Validate phone numbers globally,Other,apiKey,True,True,https://www.abstractapi.com/phone-validation-api
+kanari,"Real-time worldwide wildfire detections, water bomber tracking and open fire archive",Environment,No,True,True,https://kanari.io/en/api
+HackerOne,The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting,Security,apiKey,True,,https://api.hackerone.com/
+Forza,Show random image of car from Forza,Games & Comics,No,True,,https://docs.forza-api.tk
+Black History Facts,Contribute or search one of the largest black history fact databases on the web,Open Data,apiKey,True,True,https://www.blackhistoryapi.io/docs
+Recreation Information Database,"Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)",Open Data,apiKey,True,,https://ridb.recreation.gov/
+Labelixa,"Render, validate and generate Zebra ZPL label barcodes as PNG/PDF",Development,apiKey,True,True,https://labelixa.com/docs/api
+Zelothorn,Plain-English explanations of US public companies with SEC filings and earnings data,Finance,No,True,True,https://zelothorn.com/developers
+Cloverly,API calculates the impact of common carbon-intensive activities in real time,Environment,apiKey,True,,https://www.cloverly.com/carbon-offset-documentation
+Mexc,"Cryptocurrency info, place order",Cryptocurrency,apiKey,True,,https://www.mexc.com/api-docs
+Hong Kong Obervatory,"Provide weather information, earthquake information, and climate data",Weather,No,True,,https://www.hko.gov.hk/en/abouthko/opendata_intro.htm
+Lecto Translation,Translation API with free tier and reasonable prices,Text Analysis,apiKey,True,True,https://rapidapi.com/lecto-lecto-default/api/lecto-translation/
+Udemy(instructor),API for instructors on Udemy,Personality,apiKey,True,,https://www.udemy.com/developers/instructor/
+Coinremitter,Cryptocurrencies Payment & Prices,Cryptocurrency,apiKey,True,,https://coinremitter.com/docs
+Lowy Asia Power Index,Get measure resources and influence to rank the relative power of states in Asia,Open Data,No,True,,https://github.com/0x0is1/lowy-index-api-docs
+FunTranslations,Translate Text into funny languages,Games & Comics,No,True,True,https://api.funtranslations.com/
+mailboxlayer,Email address validation,Email,apiKey,True,,https://mailboxlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+Diagrams.so,Generate editable draw.io architecture diagrams from text or infrastructure code,Development,apiKey,True,False,https://diagrams.so/developers
+Nutritionix,Worlds largest verified nutrition database,Health,apiKey,True,,https://developer.nutritionix.com/
+OLX Poland,"Integrate with local sites by posting, managing adverts and communicating with OLX users",Shopping,apiKey,True,,https://developer.olx.pl/api/doc#section/
+Jooble,Job search engine,Jobs,apiKey,True,,https://jooble.org/api/about
+ProxyKingdom,Rotating Proxy API that produces a working proxy on every request,Development,apiKey,True,True,https://proxykingdom.com
+TomTom,"Maps, Directions, Places and Traffic APIs",Geocoding,apiKey,True,True,https://developer.tomtom.com/
+Bluesky,Decentralized social networking via the AT protocol,Social,No,True,True,https://docs.bsky.app/
+Random Stuff,"Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",Development,apiKey,True,True,https://api-docs.pgamerx.com/
+Tredict,"Get and set activities, health data and more",Sports & Fitness,OAuth,True,,https://www.tredict.com/blog/oauth_docs/
+Keyvalue,Simple key-value storage REST API for quick prototyping,Development,No,True,,https://keyvalue.immanuel.co/
+Noun Project,Icons,Art & Design,OAuth,False,,http://api.thenounproject.com/index.html
+SonarQube,"SonarQube REST APIs to detect bugs, code smells & security vulnerabilities",Development,OAuth,True,,https://sonarcloud.io/web_api
+ipgeolocation,IP Geolocation AP with free plan 30k requests per month,Geocoding,apiKey,True,True,https://ipgeolocation.io/
+ItsThisForThat,Generate Random startup ideas,Test Data,No,True,False,https://itsthisforthat.com/api.php
+SWAPI,All things Star Wars,Video,No,True,True,https://www.swapi.tech
+US Autocomplete,Enter address data quickly with real-time address suggestions,Other,apiKey,True,True,https://www.smarty.com/docs/cloud/us-autocomplete-pro-api
+Napster,Music,Music,apiKey,True,True,https://developer.napster.com/api/v2.2
+DeepAI,"Provides AI-powered APIs for text generation, image processing, and more",Machine Learning,apiKey,True,True,https://deepai.org/
+Hirak Exchange Rates,"Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits",Cryptocurrency,apiKey,True,,https://rates.hirak.site/
+Zero Retention PDF,Zero-retention HTML to PDF conversion,Documents & Productivity,apiKey,True,,https://xeropdf.com
+Sport Vision,"Identify sport, brands and gear in an image. Also does image sports captioning",Sports & Fitness,apiKey,True,True,https://developers.decathlon.com/products/sport-vision
+Razorpay IFSC,Indian Financial Systems Code (Bank Branch Codes),Finance,No,True,,https://razorpay.com/docs/
+EXMO,Cryptocurrencies exchange based in UK,Cryptocurrency,apiKey,True,,https://documenter.getpostman.com/view/10287440/SzYXWKPi
+Bybit,Cryptocurrency data feed and algorithmic trading,Cryptocurrency,apiKey,True,,https://bybit-exchange.github.io/docs/linear/#t-introduction
+IPstack,Locate and identify website visitors by IP address,Geocoding,apiKey,True,,https://ipstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+DynaPictures,Generate Hundreds of Personalized Images in Minutes,Photography,apiKey,True,True,https://dynapictures.com/docs/
+quoteclear,Ever-growing list of James Clear quotes from the 3-2-1 Newsletter,Personality,No,True,True,https://quoteclear.web.app/
+Dog Facts,Random dog facts,Animals,No,True,True,https://dukengn.github.io/Dog-facts-API/
+PeakMetrics,News articles and public datasets,Open Data,apiKey,True,,https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news
+Statically,A free CDN for developers,Development,No,True,True,https://statically.io/
+RescueGroups,Adoption,Animals,No,True,,https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
+Valorant (non-official),"An extensive API containing data of most Valorant in-game items, assets and more",Games & Comics,No,True,,https://valorant-api.com
+Open Notify,"ISS astronauts, current location, etc",Science & Math,No,False,False,http://open-notify.org/Open-Notify-API/
+Memesio,"Meme creation API with templates, editable captions and hosted share links",Entertainment,No,True,False,https://memesio.com/developers/api
+"Transport for Manchester, England",TfGM transport network data,Transportation,apiKey,True,False,https://developer.tfgm.com/
+Covid-19,"Covid 19 spread, infection and recovery",Health,No,True,True,https://covid19api.com/
+CongressInvests,Real-time U.S. congressional stock trade disclosures from Senate EFD and House Clerk,Finance,apiKey,True,True,https://congressinvests.com
+Line,"Line Login, Share on Line, Social Plugins and more",Social,OAuth,True,,https://developers.line.biz/
+EmailRep,Email address threat and risk prediction,Security,No,True,,https://docs.emailrep.io/
+Spaceflight News,Spaceflight related news 🚀,News,No,True,True,https://spaceflightnewsapi.net
+Orca Scan,"Generate barcode images (QR, Code 128, EAN, Data Matrix and more) in SVG, PNG, JPG or PDF",Development,No,True,True,https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6
+Gmail,"Flexible, RESTful access to the user's inbox",Business,OAuth,True,,https://developers.google.com/gmail/api/
+Numverify,Phone number validation,Other,apiKey,True,,https://numverify.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+PlaceDog,Placeholder Dog pictures,Animals,No,True,True,https://place.dog
+Pokémon TCG,Pokémon TCG Information,Games & Comics,No,True,,https://pokemontcg.io
+"City, Gdańsk",Gdańsk (PL) City Open Data,Government,No,True,,https://ckan.multimediagdansk.pl/en
+Fruityvice,Data about all kinds of fruit,Food & Drink,No,True,,https://www.fruityvice.com
+Rainbow Weather,Global real-time nowcasting API powered by radar + satellite fusion,Weather,apiKey,True,,https://developer.rainbow.ai/
+Best Buy,"Products, Buying Options, Categories, Recommendations, Stores and Commerce",Shopping,apiKey,True,,https://bestbuyapis.github.io/api-documentation/#overview
+NHL Records and Stats,NHL historical data and statistics,Sports & Fitness,No,True,,https://gitlab.com/dword4/nhlapi
+NekosBest,Neko Images & Anime roleplaying GIFs,Anime,No,True,True,https://docs.nekos.best
+SHOUTCLOUD,ALL-CAPS AS A SERVICE,Development,No,False,,http://shoutcloud.io/
+Artificial Intelligence Jobs,"Live AI/ML job listings from 260+ companies' own career pages, with salary, location, remote and seniority filters",Jobs,No,True,True,https://artificialintelligencejobs.co/developers
+"Open Government, Sweden",Sweden Government Open Data,Government,No,True,,https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database
+Steam,Internal Steam Web API documentation,Games & Comics,No,True,False,https://github.com/Revadike/InternalSteamWebAPI/wiki
+Destiny The Game,Bungie Platform API,Games & Comics,apiKey,True,,https://bungie-net.github.io/multi/index.html
+Psychonauts,Psychonauts World Characters Information and PSI Powers,Games & Comics,No,True,True,https://psychonauts-api.netlify.app/
+Gaana,API to retrieve song information from Gaana,Music,No,True,,https://github.com/cyberboysumanjay/GaanaAPI
+Virushee,Virushee file/data scanning,Security,No,True,True,https://api.virushee.com/
+Uber,Uber ride requests and price estimation,Transportation,OAuth,True,True,https://developer.uber.com/products
+ddownload,File Sharing and Storage,Cloud Storage & File Sharing,apiKey,True,,https://ddownload.com/api
+DigMyName,Domain availability and registrar pricing across 52 TLDs,Development,No,True,True,https://digmyname.com/api
+YNAB,Budgeting & Planning,Finance,OAuth,True,True,https://api.youneedabudget.com/
+SocialCrawl,Social and commerce data from 50+ platforms in one JSON schema,Social,apiKey,True,True,https://www.socialcrawl.dev/docs
+Google Firebase,"Google's mobile application development platform that helps build, improve, and grow app",Development,apiKey,True,True,https://firebase.google.com/docs
+GoFile,Unlimited size file uploads for free,Cloud Storage & File Sharing,apiKey,True,,https://gofile.io/api
+Indian Mutual Fund,Get complete history of India Mutual Funds Data,Finance,No,True,,https://www.mfapi.in/
+Lordicon,Icons with predone Animations,Art & Design,No,True,True,https://lordicon.com/
+WhatPulse,Small application that measures your keyboard/mouse usage,Other,No,True,,https://developer.whatpulse.org/#web-api
+"Velib metropolis, Paris, France",Velib Open Data API,Transportation,No,True,False,https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
+Odds-API,Real-time sports betting odds from 265+ bookmakers across 34 sports via REST and WebSocket,Sports & Fitness,apiKey,True,True,https://docs.odds-api.io
+COVID-ID,Indonesian government Covid data per province,Health,No,True,True,https://data.covid19.go.id/public/api/prov.json
+scraperBox,Undetectable web scraping API,Development,apiKey,True,True,https://scraperbox.com/
+Country,Get your visitor's country from their IP,Geocoding,No,True,True,http://country.is/
+Poloniex,US based digital asset exchange,Cryptocurrency,apiKey,True,,https://docs.poloniex.com
+GoTiny,"A lightweight URL shortener, focused on ease-of-use for the developer and end-user",URL Shorteners,No,True,True,https://github.com/robvanbakel/gotiny-api
+Google Earth Engine,A cloud-based platform for planetary-scale environmental data analysis,Geocoding,apiKey,True,,https://developers.google.com/earth-engine/
+Studio Ghibli,Resources from Studio Ghibli films,Anime,No,True,True,https://ghibliapi.vercel.app
+Halo,Halo 5 and Halo Wars 2 Information,Games & Comics,apiKey,True,,https://developer.haloapi.com/
+Web Series Quotes Generator,API generates various Web Series Quote Images,Video,No,True,True,https://github.com/yogeshwaran01/web-series-quotes
+Can I enter,"Visa and entry requirements for 199 passports, cited to official sources, verified daily",Transportation,No,True,True,https://canienter.com
+Icons8,"Icons (find ""search icon"" hyperlink in page)",Art & Design,No,True,,https://img.icons8.com/
+Newton,Symbolic and Arithmetic Math Calculator,Science & Math,No,True,False,https://newton.vercel.app
+ColorfulClouds,Weather,Weather,apiKey,True,True,https://open.caiyunapp.com/ColorfulClouds_Weather_API
+GrünstromIndex,Green Power Index for Germany (Grünstromindex/GSI),Environment,No,False,True,https://gruenstromindex.de/
